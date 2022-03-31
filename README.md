@@ -5,5 +5,5 @@
 Note: Only works on Windows
       It may show it is harmful, as the windows defender 
       doesn't allow downloading of executable files.
-      But it is safe, you can check the code too.
+      But it is safe, you can check the raw python code too.
       
